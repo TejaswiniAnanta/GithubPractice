@@ -7,6 +7,7 @@ public class Class1Test {
 	@Test
 	public void class1() {
 		Reporter.log("**********Hi Pavithran Sir🙏🙏🙏...!!!!!***********", true);
+		Reporter.log("**********Hi Pavithran Sir🙏🙏🙏...!!!!!***********", true);
 	}
 
 
